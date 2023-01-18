@@ -1,0 +1,20 @@
+*{
+    border: 0;
+    margin: 4px;
+    padding: 0;
+}
+
+#sehir{
+    width: 40%;
+    height: auto;
+    margin: 5% 0 0 30%;
+    border: 1px solid gray;
+    padding: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+
+div{
+    display: block;
+    margin: 10%;
+}
